@@ -1,0 +1,16 @@
+package myInfo;
+
+class Personal {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Name : Nurul Azurin Binti Tokiman ");
+		System.out.println("No Matrik : 288448");
+		System.out.println("Course : Computer Science");
+		System.out.println("Address : 18, Jalan Suria 3, Taman Suria, Simpang Renggam ,Johor");
+		System.out.println("Father's Name : Tokiman bin Kartubi");
+		System.out.println("Mother's Name : Rosiah binti Md Desa ");
+
+	}
+
+}
